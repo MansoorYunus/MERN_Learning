@@ -1,12 +1,17 @@
 # MERN Learning
 This repo is to track all the learnings and create new projects
 
-##HTML
+## HTML
 
-##CSS
+## CSS
 
-##JavaScript
+## JavaScript
 
-##Express
+Callbacks
+Promises
+Arrow Functions
+Map
+Filter
 
-##React
+## React
+
